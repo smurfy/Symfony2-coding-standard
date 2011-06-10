@@ -1,12 +1,16 @@
 Symfony2 PHP CodeSniffer Coding Standard
 ========================================
 
+Based on openskys symfony2 codingstyle
+Based on modifications from krymen (Scope checks)
+Based on modifications from trylik (comment checks)
+
 Installation
 ------------
 
 1. Install phpcs:
 
-       pear install PHP_CodeSniffer-beta
+       pear install PHP_CodeSniffer
 
 2. Find your PEAR directory:
 
@@ -16,7 +20,7 @@ Installation
    phpcs `Standards` directory:
 
        cd /path/to/pear/PHP/CodeSniffer/Standards
-       git clone git://github.com/opensky/Symfony2-coding-standard.git Symfony2
+       git clone git://github.com/smurfy/Symfony2-coding-standard.git Symfony2
 
 4. Set Symfony2 as your default coding standard:
 
