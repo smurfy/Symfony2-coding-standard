@@ -2,7 +2,9 @@ Symfony2 PHP CodeSniffer Coding Standard
 ========================================
 
 Based on openskys symfony2 codingstyle
+
 Based on modifications from krymen (Scope checks)
+
 Based on modifications from trylik (comment checks)
 
 Installation
